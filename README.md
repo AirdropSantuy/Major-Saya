@@ -1,0 +1,2 @@
+# Major-Saya
+bot major
